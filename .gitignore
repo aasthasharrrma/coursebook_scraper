@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+data/*.html
+data/*.json
+!data/.gitkeep
